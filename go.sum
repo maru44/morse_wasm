@@ -1,0 +1,5 @@
+github.com/alwindoss/morse v1.0.1/go.mod h1:qAqJOep3jEpIpiLgqSGgLk5Zh4BZKsyzMQHuAwVPMXc=
+github.com/eiannone/keyboard v0.0.0-20200508000154-caf4b762e807/go.mod h1:Xoiu5VdKMvbRgHuY7+z64lhu/7lvax/22nzASF6GrO8=
+github.com/maru44/morse v0.0.0-20210828122356-3519cd84268b h1:R1pFvbs/LfF4Ah4IspNQu2vzdw84PhOFiaLLfxRlSpc=
+github.com/maru44/morse v0.0.0-20210828122356-3519cd84268b/go.mod h1:FrKES0EYxeNN8KFW1L+RdJ6VpZ6qqWEEVZQCWn9Eex4=
+golang.org/x/sys v0.0.0-20210820121016-41cdb8703e55/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
